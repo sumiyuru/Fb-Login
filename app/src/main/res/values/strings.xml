@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SurveyS</string>
+    <string name="facebook_app_id">560501891392271</string>
+    <string name="fb_login_protocol_scheme">fb560501891392271</string>
+</resources>
